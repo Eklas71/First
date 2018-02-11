@@ -1,0 +1,22 @@
+.manue
+{
+	width: 20%
+	padding: 0;
+	display: none;
+}
+.manue ul
+{
+	width: 20%
+display: none;
+}
+.manue ul li
+{
+	width: 100%;
+}
+
+div.manue_list
+{
+	display: block;
+}
+
+}
